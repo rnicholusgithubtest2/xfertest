@@ -1,4 +1,4 @@
 xfertest
 ========
 
-foo
+foo bar
