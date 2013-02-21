@@ -1,2 +1,4 @@
 xfertest
 ========
+
+foo
